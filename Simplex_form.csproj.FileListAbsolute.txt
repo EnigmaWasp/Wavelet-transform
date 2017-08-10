@@ -1,0 +1,9 @@
+c:\users\www\documents\visual studio 2012\Projects\Simplex_form\Simplex_form\bin\Debug\Simplex_form.exe.config
+c:\users\www\documents\visual studio 2012\Projects\Simplex_form\Simplex_form\bin\Debug\Simplex_form.exe
+c:\users\www\documents\visual studio 2012\Projects\Simplex_form\Simplex_form\bin\Debug\Simplex_form.pdb
+c:\users\www\documents\visual studio 2012\Projects\Simplex_form\Simplex_form\obj\Debug\Simplex_form.Form1.resources
+c:\users\www\documents\visual studio 2012\Projects\Simplex_form\Simplex_form\obj\Debug\Simplex_form.Properties.Resources.resources
+c:\users\www\documents\visual studio 2012\Projects\Simplex_form\Simplex_form\obj\Debug\Simplex_form.csproj.GenerateResource.Cache
+c:\users\www\documents\visual studio 2012\Projects\Simplex_form\Simplex_form\obj\Debug\Simplex_form.exe
+c:\users\www\documents\visual studio 2012\Projects\Simplex_form\Simplex_form\obj\Debug\Simplex_form.pdb
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Simplex_form\Simplex_form\obj\Debug\Simplex_form.csprojResolveAssemblyReference.cache

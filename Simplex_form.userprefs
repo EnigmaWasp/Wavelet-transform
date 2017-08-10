@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E72620EB-32B6-4139-B8E2-6B7A2EFE78C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Simplex_form/Form1.Designer.cs">
+    <Files>
+      <File FileName="Simplex_form/Form1.resx" Line="1" Column="1" />
+      <File FileName="Simplex_form/Form1.Designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
